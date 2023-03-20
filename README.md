@@ -18,6 +18,9 @@ Steps of the project:
 3) Exploratory data analysis
 4) Conclusions
 
+## Data
+I didn't find any data for analysis because theme is not so popular. So I desided scrap data. 
+Process, [code](https://github.com/DanaFilipovich/Crochet-youtube-channels-EDA/blob/92d9e85e737146743030457551599335c01fe3cc/Data%20parsing.ipynb) and [final dataset](https://github.com/DanaFilipovich/Crochet-youtube-channels-EDA/blob/92d9e85e737146743030457551599335c01fe3cc/video_data_14channels_crochet.csv) are by the links.
 
 ## References
 [1] Youtube API [official documentation](https://developers.google.com/youtube/v3?hl=ru)
