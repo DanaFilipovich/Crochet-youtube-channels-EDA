@@ -1,5 +1,8 @@
 # Crochet youtube channels analysis
 
+## Idea
+In 2018 I started crochet and then had small brand of knitted decor. However, with the relocation, I realized that the cost of materials here is much higher and due to the large number of orders, my hands began to hurt. I decided to try to open my channel with knitting on YouTube to share my skills, patterns and designs and to have money for it (monetization + sell patterns). I decided to analyze channels and videos on this topic.
+
 Within this project, I would like to explore the following:
 
 - Getting to know Youtube API and how to obtain video data (Because I learn on Data Analytics Track).
